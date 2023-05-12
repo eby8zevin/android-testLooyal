@@ -1,3 +1,23 @@
 <resources>
     <string name="app_name">Looyal</string>
+
+    <string name="register">Register</string>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="city">City</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="dont_have_an_account">Don\'t have an Account?</string>
+    <string name="welcome">Good Morning John</string>
+    <string name="text_area">Enter your text here!</string>
+    <string name="save">Save</string>
+    <string name="profile">Profile</string>
+    <string name="info">Info</string>
+    <string name="registration_time">Registration time</string>
+    <string name="edit_profile">Edit Profile</string>
+    <string name="logout">Logout</string>
+    <string name="log_out">Log Out?</string>
+    <string name="yes">Yes</string>
+    <string name="cancel">Cancel</string>
+    <string name="message_logout">Are you sure you want to log out?</string>
 </resources>
